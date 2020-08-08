@@ -61,7 +61,7 @@ Pois é.
 Assim foi mais rápido.
 
 #### Faltou o linting. Vários statements não terminam com o ponto e vírgula.
-Esqueci de por.
+Esqueci de pôr.
 
 #### Faltou o linting. Vários statements terminam com o ponto e vírgula.
 Esqueci de tirar.
